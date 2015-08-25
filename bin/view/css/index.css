@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+table.index{
+	width:80%;
+	margin:40px 10%;
+	font-family:"Adobe 楷体 Std R";
+	}
+
+.index td{
+	padding:10px;
+	color:#555555;
+	}	
+.index td span{
+	color:#205AA7;
+	}	

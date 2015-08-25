@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	}
+	
+#bodybg {      
+    position: absolute;    
+    left: 0px;    
+    top: 0px;    
+    z-index: -1;
+	width: 100%;    
+    height: 100%; }  
+ 
+#login_head{
+	font-family:"华文行楷";
+	color:white;
+	font-size:30px;
+	}
+
+.login_box{
+	position:absolute;
+	display:block;
+	width:350px;
+	height:270px;
+	color:#000;
+	font-family:"微软雅黑";
+	font-size:14px;
+	border-radius:15px;
+	background:#f6f5ec;
+	border:8px solid #7bbfea;
+	}	
+.login_box table{
+	border-collapse:collapse;
+	margin-left:30px;
+	}		
+.login_box table th{
+	padding:8px;
+	font-size:18px;
+	line-height:18px;
+	padding-top:18px;
+	color:#0033FF;
+	}
+.login_box table td{
+	padding:8px 5px;
+	}	
+.login_box table td label{
+	margin-right:10px;
+	}	
+.login_box table td input[type=text],
+.login_box table td input[type=password]{
+	-webkit-border-radius: 8px;
+	border:1px solid #ccc;
+	width:60%;
+	text-indent:10px;
+	outline:none;
+	margin-top:5px;
+	}
+.login_box table td input[type=submit]{
+	border:1px solid #7bbfea;
+	width:30%;
+	background:#2A8FBD;
+	color:white;
+	font-family:"微软雅黑";
+	font-size:14px;
+	margin-left:3px;
+	-webkit-border-radius: 8px;
+	}	
+.login_box table td input[type=button]:hover{
+	background:#06B9D1;
+	color:#ECECEC;
+	cursor:pointer;
+	}	
+	
+	
+/*login-alt*/
+#login-alt{
+	width:600px;
+	border:1px solid #333;
+	}	
+#login-alt .left{
+	height:300px;
+	width:200px;
+	float:left;
+	}
+#login-alt .left span{
+	display:block;
+	width:200px;
+	height:150px;
+	}	
+#login-alt .left span img{
+	margin:25px 50px;
+	cursor:pointer;
+	opacity:0.6;
+	}	
+#login-alt .left span img:hover{
+	opacity:1;
+	}	
+#login-alt .left span.current img{
+	opacity:1;
+	}	
+		
+#login-alt .left .physics{
+	background:rgba(42,143,189,0.5);
+	box-shadow: -2px -2px 5px #333;
+	}		
+#login-alt .left .computer{
+	background:rgba(253,91,120,0.5);
+	box-shadow:-2px 2px 5px #333 inset;
+	}
+	
+#login-alt table{
+	background:rgba(42,143,189,0.5);
+	width:400px;
+	height:300px;
+	box-shadow:0 2px 5px #333,2px -2px 5px #333;
+	}
+#login-alt table th,
+#login-alt table td{
+	padding-left:40px;
+	}	
+
+					

@@ -1,0 +1,277 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/*frame*/
+body{
+	width:960px;
+	margin:0 auto;
+	font-family:"Times New Roman", Times, serif;
+	background-image: url(../image/bg.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+#bodybg {       
+    position: absolute;  
+    left: 0px;    
+    top: 0px;    
+    z-index: -1;
+	width: 100%;  
+    height: 100%;
+	display:none;
+	}  	
+#frame{
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	width:100%;
+	min-height:798px;
+	float:left;
+	background:#86B3E8;
+	}	
+/*header*/		
+#frame #header{
+	float:left;	
+	width:100%;
+	height:80px;
+	background:#548AE8;
+	border-radius:5px;
+	box-shadow:0px 1px 8px 1px #00214F;
+	}
+#frame #header h1{
+	float:left;
+	color:white;
+	font-family:"华文隶书";
+	}
+	
+#frame #header .greeting{
+	float:right;
+	font-size:14px;
+	font-family:"华文楷体";
+	color:#fff;
+	}
+#frame #header .greeting span{
+	display:block;
+	margin-top:18px;
+	margin-right:20px;
+	width:200px;
+	text-align:right;
+	}
+#frame #header .greeting span a{
+	color:inherit;
+	text-decoration:none;
+	margin-left:8px;
+	}
+#frame #header .greeting span a:hover{
+	text-decoration:underline;
+	}					
+/*footer*/		
+#frame #footer{
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#363636;
+	width:100%;
+	min-height:40px;
+	text-align:center;
+	}
+#frame #footer hr{
+	margin:0 1%;
+	width:98%;
+	color:white;
+	}	
+#frame #footer p strong{
+	margin-right:30px;
+	}
+#frame #footer p span{
+	font-style:italic;
+	}
+#frame #footer p span a{
+	text-decoration:none;
+	color:inherit;
+	font-family:"Lucida Console", Monaco, monospace;
+	}
+#frame #footer p span a:hover{
+	text-decoration:underline;
+	}	
+	
+/*main*/		
+#frame #main{
+	float:left;	
+	width:100%;
+	min-height:670px;
+	}	
+/*main nav*/				
+#frame #main .nav{
+	float:left;
+	width:220px;
+	min-height:650px;
+	background:white;
+	margin:10px;
+	border-radius:10px;
+	box-shadow:1px 1px 5px 1px #759FBD;
+	}
+	
+#frame #main .nav .navbox{
+	width:200px;
+	margin:15px 10px;
+	}
+#frame #main .nav .navbox .boxhead{
+	width:100%;
+	height:30px;
+	line-height:30px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;	
+	background:#008FD1;
+	color:white;
+	font-family:"微软雅黑";
+	text-indent:10px;
+	cursor:pointer;
+	}
+#frame #main .nav .navbox .boxhead i{
+	margin-top:4px;
+	margin-right:5px;
+	}	
+#frame #main .nav .navbox .boxhead span{
+	float:right;
+	margin:8px;
+	opacity:0.5;
+	}	
+#frame #main .nav .navbox .boxcontent{
+	width:198px;
+	border:1px solid #008FD1;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	overflow:auto;
+	background:#FFFEF3;	
+	}	
+		
+#frame #main .nav #exp_list .boxcontent{
+	height:440px;
+	}	
+
+#frame #main .nav #exp_list .boxcontent .submenuhead{
+	display:block;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-family:"华文中宋";
+	}	
+#frame #main .nav #exp_list .boxcontent .submenuhead i{
+	margin-left:10px;
+	margin-top:2px;
+	margin-right:2px;
+	}	
+#frame #main .nav #exp_list .boxcontent .submenuhead i.icon-cog{
+	float:right;
+	margin:10px 20px 0 0;
+	cursor:pointer;
+	}	
+#frame #main .nav #exp_list .boxcontent .submenuhead:hover{
+	background:#6EC3C9;
+	}	
+#frame #main .nav #exp_list .boxcontent .submenu{
+	list-style:none;
+	margin:0;
+	padding:0;
+	}
+#frame #main .nav #exp_list .boxcontent .submenu li{
+	height:24px;
+	font-size:14px;
+	font-family:"Adobe 楷体 Std R";
+	}
+#frame #main .nav #exp_list .boxcontent .submenu li a{
+	text-decoration:none;
+	height:24px;
+	display:block;
+	margin-left:40px;
+	color:#363636;
+	}	
+#frame #main .nav #exp_list .boxcontent .submenu li a:hover{
+	text-decoration:underline;
+	color:#09C;
+	}			
+		
+#frame #main .nav #personal_info .boxcontent{
+	height:100px;
+	}
+#frame #main .nav #personal_info .boxcontent a{
+	display:block;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-family:"华文中宋";
+	text-decoration:none;
+	color:inherit;
+	margin-top:8px;
+	}			
+#frame #main .nav #personal_info .boxcontent a i{
+	margin-left:8px;
+	margin-top:3px;
+	margin-right:4px;
+	}	
+#frame #main .nav #personal_info .boxcontent a:hover{
+	background:#EEE7CE;
+	color:#09C;
+	}	
+/*main content*/			
+#frame #main .content{
+	float:left;
+	width:700px;
+	min-height:650px;
+	background:white;
+	margin:10px;
+	box-shadow:1px 1px 5px 1px #759FBD;
+	}
+	
+#frame #main .content .breadcrumb{
+	width:98%;
+	margin:0 1%;
+	height:44px;
+	line-height:60px;
+	font-size:14px;
+	font-family:"华文楷体";
+	color:#666;
+	text-indent:5px;
+	vertical-align:bottom;
+	border-bottom:1px solid #ccc;
+	}
+#frame #main .content .breadcrumb a.icon-home{
+	opacity:0.7;
+	}				
+#frame #main .content .breadcrumb a.icon-home:hover{
+	opacity:1;
+	}
+#frame #main .content .breadcrumb span.current{
+	color:#00B2BF;
+	}		
+	
+/*for Teacher
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+#frame #main .nav #exp_list .boxcontent .createnew{
+	display:block;
+	width:100%;
+	height:40px;
+	border-bottom:solid 1px #ccc;
+	}	
+#frame #main .nav #exp_list .boxcontent .createnew a{
+	display:block;
+	width:100%;
+	height:30px;
+	line-height:30px;
+	font-family:"华文中宋";
+	text-decoration:none;
+	color:inherit;
+	margin-top:10px;
+	}
+#frame #main .nav #exp_list .boxcontent .createnew i{
+	margin-left:10px;
+	margin-top:3px;
+	margin-right:3px;
+	}	
+#frame #main .nav #exp_list .boxcontent .createnew a:hover{
+	cursor:pointer;
+	background:#EEE7CE;
+	color:#09C;
+	}	
+
+	

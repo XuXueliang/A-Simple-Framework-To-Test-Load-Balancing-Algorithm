@@ -1,0 +1,793 @@
+2015-02-19 04:59:44pm Rediect init...
+2015-02-19 04:59:44pm Init Env ...
+2015-02-19 04:59:44pm Init Env data...
+2015-02-19 04:59:44pm Init Env succeed.
+2015-02-19 05:01:47pm Rediect init...
+2015-02-19 05:01:47pm Init Env ...
+2015-02-19 05:01:47pm Init Env data...
+2015-02-19 05:01:47pm Init Env succeed.
+2015-02-19 05:03:06pm Rediect init...
+2015-02-19 05:03:06pm Init Env ...
+2015-02-19 05:03:06pm Init Env data...
+2015-02-19 05:03:06pm Init Env succeed.
+2015-02-19 05:21:52pm Rediect init...
+2015-02-19 05:21:52pm Init Env ...
+2015-02-19 05:21:52pm Init Env data...
+2015-02-19 05:21:52pm Init Env succeed.
+2015-02-19 05:21:54pm Init Env ...
+2015-02-19 05:21:54pm Init Env data...
+2015-02-19 05:21:54pm Init Env succeed.
+2015-02-19 05:24:27pm Parsing func para:well
+2015-02-19 05:24:27pm Begin to select proper server...
+2015-02-19 05:24:27pm Select proper server for the request.
+2015-02-19 05:24:27pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 05:24:27pm wellHanlder begin to handle this request.
+2015-02-19 05:24:27pm well_sql begin searching database.
+2015-02-19 05:24:27pm Need result type: html.
+2015-02-19 05:24:27pm wellHanlder handle request during: 1424337867 - 1424337867 = 0
+2015-02-19 05:24:34pm Parsing func para:well
+2015-02-19 05:24:34pm Begin to select proper server...
+2015-02-19 05:24:34pm Select proper server for the request.
+2015-02-19 05:24:34pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 05:24:34pm wellHanlder begin to handle this request.
+2015-02-19 05:24:34pm well_sql begin searching database.
+2015-02-19 05:24:34pm Need result type: json.
+2015-02-19 05:24:34pm wellHanlder handle request during: 1424337874 - 1424337874 = 0
+2015-02-19 05:24:59pm Parsing func para:well
+2015-02-19 05:24:59pm Begin to select proper server...
+2015-02-19 05:24:59pm Select proper server for the request.
+2015-02-19 05:24:59pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 05:24:59pm wellHanlder begin to handle this request.
+2015-02-19 05:24:59pm well_sql begin searching database.
+2015-02-19 05:24:59pm Need result type: json.
+2015-02-19 05:24:59pm wellHanlder handle request during: 1424337899 - 1424337899 = 0
+2015-02-19 05:26:38pm Rediect init...
+2015-02-19 05:26:38pm Init Env ...
+2015-02-19 05:26:38pm Init Env data...
+2015-02-19 05:26:39pm Init Env succeed.
+2015-02-19 05:26:46pm Parsing func para:well
+2015-02-19 05:26:46pm Begin to select proper server...
+2015-02-19 05:26:46pm Select proper server for the request.
+2015-02-19 05:26:46pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 05:26:46pm wellHanlder begin to handle this request.
+2015-02-19 05:26:46pm well_sql begin searching database.
+2015-02-19 05:26:47pm Need result type: json.
+2015-02-19 05:26:47pm wellHanlder handle request during: 1424338006 - 1424338007 = 1
+2015-02-19 05:27:45pm Rediect init...
+2015-02-19 05:27:45pm Init Env ...
+2015-02-19 05:27:45pm Init Env data...
+2015-02-19 05:27:45pm Init Env succeed.
+2015-02-19 05:27:52pm Parsing func para:well
+2015-02-19 05:27:52pm Begin to select proper server...
+2015-02-19 05:27:52pm Select proper server for the request.
+2015-02-19 05:27:52pm Choosing done. Request went to localhost.
+2015-02-19 05:27:52pm wellHanlder begin to handle this request.
+2015-02-19 05:27:52pm well_sql begin searching database.
+2015-02-19 05:27:52pm Need result type: json.
+2015-02-19 05:27:52pm wellHanlder handle request during: 1424338072 - 1424338072 = 0
+2015-02-19 05:32:15pm Parsing func para:well
+2015-02-19 05:32:15pm Begin to select proper server...
+2015-02-19 05:32:15pm Select proper server for the request.
+2015-02-19 05:32:15pm Choosing done. Request went to localhost.
+2015-02-19 05:32:16pm wellHanlder begin to handle this request.
+2015-02-19 05:32:16pm well_sql begin searching database.
+2015-02-19 05:32:16pm Need result type: json.
+2015-02-19 05:32:16pm wellHanlder handle request during: 1424338336 - 1424338336 = 0
+2015-02-19 05:38:12pm Parsing func para:well
+2015-02-19 05:38:12pm Begin to select proper server...
+2015-02-19 05:38:12pm Select proper server for the request.
+2015-02-19 05:38:12pm Choosing done. Request went to .
+2015-02-19 05:38:12pm wellHanlder begin to handle this request.
+2015-02-19 05:38:12pm well_sql begin searching database.
+2015-02-19 05:38:12pm Need result type: json.
+2015-02-19 05:38:12pm wellHanlder handle request during: 1424338692 - 1424338692 = 0
+2015-02-19 06:02:49pm Parsing func para:well
+2015-02-19 06:02:49pm Begin to select proper server...
+2015-02-19 06:02:49pm Select proper server for the request.
+2015-02-19 06:02:49pm Choosing done. Request went to .
+2015-02-19 06:02:49pm wellHanlder begin to handle this request.
+2015-02-19 06:02:49pm well_sql begin searching database.
+2015-02-19 06:02:49pm Need result type: json.
+2015-02-19 06:02:50pm wellHanlder handle request during: 1424340169 - 1424340169 = 
+2015-02-19 06:03:06pm wellHanlder begin to handle this request.
+2015-02-19 06:03:06pm well_sql begin searching database.
+2015-02-19 06:03:06pm Need result type: json.
+2015-02-19 06:03:06pm wellHanlder handle request during: 1424340169 - 1424340186 = 
+2015-02-19 06:03:12pm wellHanlder begin to handle this request.
+2015-02-19 06:03:12pm well_sql begin searching database.
+2015-02-19 06:03:12pm Need result type: json.
+2015-02-19 06:03:12pm wellHanlder handle request during: 1424340169 - 1424340192 = 
+2015-02-19 06:03:13pm wellHanlder begin to handle this request.
+2015-02-19 06:03:13pm well_sql begin searching database.
+2015-02-19 06:03:13pm Need result type: json.
+2015-02-19 06:03:13pm wellHanlder handle request during: 1424340169 - 1424340193 = 
+2015-02-19 06:03:46pm wellHanlder begin to handle this request.
+2015-02-19 06:03:46pm well_sql begin searching database.
+2015-02-19 06:03:46pm Need result type: json.
+2015-02-19 06:03:46pm wellHanlder handle request during: 1424340169 - 1424340226 = 
+2015-02-19 06:03:48pm wellHanlder begin to handle this request.
+2015-02-19 06:03:48pm well_sql begin searching database.
+2015-02-19 06:03:48pm Need result type: json.
+2015-02-19 06:03:48pm wellHanlder handle request during: 1424340169 - 1424340228 = 
+2015-02-19 06:03:49pm wellHanlder begin to handle this request.
+2015-02-19 06:03:49pm well_sql begin searching database.
+2015-02-19 06:03:49pm Need result type: json.
+2015-02-19 06:03:49pm wellHanlder handle request during: 1424340169 - 1424340229 = 
+2015-02-19 06:05:06pm wellHanlder begin to handle this request.
+2015-02-19 06:05:06pm well_sql begin searching database.
+2015-02-19 06:05:06pm Need result type: json.
+2015-02-19 06:05:06pm wellHanlder handle request during: 1424340169 - 1424340306 = 
+2015-02-19 06:05:20pm wellHanlder begin to handle this request.
+2015-02-19 06:05:20pm well_sql begin searching database.
+2015-02-19 06:05:20pm Need result type: json.
+2015-02-19 06:05:20pm wellHanlder handle request during: 1424340169 - 1424340320 = 
+2015-02-19 06:05:20pm wellHanlder begin to handle this request.
+2015-02-19 06:05:20pm well_sql begin searching database.
+2015-02-19 06:05:20pm Need result type: json.
+2015-02-19 06:05:20pm wellHanlder handle request during: 1424340169 - 1424340320 = 
+2015-02-19 06:05:21pm wellHanlder begin to handle this request.
+2015-02-19 06:05:21pm well_sql begin searching database.
+2015-02-19 06:05:21pm Need result type: json.
+2015-02-19 06:05:21pm wellHanlder handle request during: 1424340169 - 1424340321 = 
+2015-02-19 06:05:21pm wellHanlder begin to handle this request.
+2015-02-19 06:05:21pm well_sql begin searching database.
+2015-02-19 06:05:21pm Need result type: json.
+2015-02-19 06:05:21pm wellHanlder handle request during: 1424340169 - 1424340321 = 
+2015-02-19 06:05:21pm wellHanlder begin to handle this request.
+2015-02-19 06:05:21pm well_sql begin searching database.
+2015-02-19 06:05:21pm Need result type: json.
+2015-02-19 06:05:21pm wellHanlder handle request during: 1424340169 - 1424340321 = 
+2015-02-19 06:05:33pm wellHanlder begin to handle this request.
+2015-02-19 06:05:33pm well_sql begin searching database.
+2015-02-19 06:05:33pm Need result type: json.
+2015-02-19 06:05:33pm wellHanlder handle request during: 1424340169 - 1424340333 = 
+2015-02-19 06:05:34pm wellHanlder begin to handle this request.
+2015-02-19 06:05:34pm well_sql begin searching database.
+2015-02-19 06:05:34pm Need result type: json.
+2015-02-19 06:05:34pm wellHanlder handle request during: 1424340169 - 1424340334 = 
+2015-02-19 06:05:34pm wellHanlder begin to handle this request.
+2015-02-19 06:05:34pm well_sql begin searching database.
+2015-02-19 06:05:34pm Need result type: json.
+2015-02-19 06:05:34pm wellHanlder handle request during: 1424340169 - 1424340334 = 
+2015-02-19 06:05:34pm wellHanlder begin to handle this request.
+2015-02-19 06:05:34pm well_sql begin searching database.
+2015-02-19 06:05:34pm Need result type: json.
+2015-02-19 06:05:34pm wellHanlder handle request during: 1424340169 - 1424340334 = 
+2015-02-19 06:05:35pm wellHanlder begin to handle this request.
+2015-02-19 06:05:35pm well_sql begin searching database.
+2015-02-19 06:05:35pm Need result type: json.
+2015-02-19 06:05:35pm wellHanlder handle request during: 1424340169 - 1424340335 = 
+2015-02-19 06:05:35pm wellHanlder begin to handle this request.
+2015-02-19 06:05:35pm well_sql begin searching database.
+2015-02-19 06:05:35pm Need result type: json.
+2015-02-19 06:05:35pm wellHanlder handle request during: 1424340169 - 1424340335 = 
+2015-02-19 06:08:00pm Parsing func para:well
+2015-02-19 06:08:00pm Begin to select proper server...
+2015-02-19 06:08:00pm Select proper server for the request.
+2015-02-19 06:08:00pm Choosing done. Request went to .
+2015-02-19 06:08:00pm wellHanlder begin to handle this request.
+2015-02-19 06:08:00pm well_sql begin searching database.
+2015-02-19 06:08:00pm Need result type: json.
+2015-02-19 06:08:00pm wellHanlder begin to report grade
+2015-02-19 06:08:25pm wellHanlder begin to handle this request.
+2015-02-19 06:08:25pm well_sql begin searching database.
+2015-02-19 06:08:25pm Need result type: json.
+2015-02-19 06:08:25pm wellHanlder begin to report grade
+2015-02-19 06:09:03pm wellHanlder begin to handle this request.
+2015-02-19 06:09:03pm well_sql begin searching database.
+2015-02-19 06:09:03pm Need result type: json.
+2015-02-19 06:09:03pm wellHanlder begin to report grade
+2015-02-19 06:09:06pm wellHanlder begin to handle this request.
+2015-02-19 06:09:06pm well_sql begin searching database.
+2015-02-19 06:09:06pm Need result type: json.
+2015-02-19 06:09:06pm wellHanlder begin to report grade
+2015-02-19 06:09:07pm wellHanlder begin to handle this request.
+2015-02-19 06:09:07pm well_sql begin searching database.
+2015-02-19 06:09:07pm Need result type: json.
+2015-02-19 06:09:07pm wellHanlder begin to report grade
+2015-02-19 06:10:34pm wellHanlder begin to handle this request.
+2015-02-19 06:10:34pm well_sql begin searching database.
+2015-02-19 06:10:34pm Need result type: json.
+2015-02-19 06:10:34pm wellHanlder begin to report grade
+2015-02-19 06:11:27pm wellHanlder begin to handle this request.
+2015-02-19 06:11:28pm well_sql begin searching database.
+2015-02-19 06:11:28pm Need result type: json.
+2015-02-19 06:11:28pm No this function now:.<br>
+2015-02-19 06:11:28pm wellHanlder begin to report grade
+2015-02-19 06:11:37pm Parsing func para:well
+2015-02-19 06:11:37pm Begin to select proper server...
+2015-02-19 06:11:37pm Select proper server for the request.
+2015-02-19 06:11:37pm Choosing done. Request went to .
+2015-02-19 06:11:37pm wellHanlder begin to handle this request.
+2015-02-19 06:11:37pm well_sql begin searching database.
+2015-02-19 06:11:37pm Need result type: json.
+2015-02-19 06:11:37pm No this function now:.<br>
+2015-02-19 06:11:37pm wellHanlder begin to report grade
+2015-02-19 06:12:12pm Parsing func para:well
+2015-02-19 06:12:12pm Begin to select proper server...
+2015-02-19 06:12:12pm Select proper server for the request.
+2015-02-19 06:12:12pm Choosing done. Request went to .
+2015-02-19 06:12:12pm wellHanlder begin to handle this request.
+2015-02-19 06:12:12pm well_sql begin searching database.
+2015-02-19 06:12:12pm Need result type: json.
+2015-02-19 06:12:12pm Load Banlace report processing2015-02-19 06:12:12pm Caculate the grade for current function-host2015-02-19 06:12:12pm wellHanlder begin to report grade
+2015-02-19 06:12:46pm Parsing func para:well
+2015-02-19 06:12:46pm Begin to select proper server...
+2015-02-19 06:12:46pm Select proper server for the request.
+2015-02-19 06:12:46pm Choosing done. Request went to .
+2015-02-19 06:12:46pm wellHanlder begin to handle this request.
+2015-02-19 06:12:46pm well_sql begin searching database.
+2015-02-19 06:12:46pm Need result type: json.
+2015-02-19 06:12:46pm Load Banlace report processing
+2015-02-19 06:12:47pm Caculate the grade for current function-host
+2015-02-19 06:12:47pm wellHanlder begin to report grade
+2015-02-19 06:14:18pm Parsing func para:well
+2015-02-19 06:14:18pm Begin to select proper server...
+2015-02-19 06:14:18pm Select proper server for the request.
+2015-02-19 06:14:18pm Choosing done. Request went to localhost.
+2015-02-19 06:14:18pm wellHanlder begin to handle this request.
+2015-02-19 06:14:18pm well_sql begin searching database.
+2015-02-19 06:14:18pm Need result type: json.
+2015-02-19 06:14:18pm This process during time is0
+2015-02-19 06:14:19pm Load Banlace report processing
+2015-02-19 06:14:19pm Caculate the grade for current function-host
+2015-02-19 06:14:19pm wellHanlder begin to report grade
+2015-02-19 06:15:09pm Parsing func para:well
+2015-02-19 06:15:09pm Begin to select proper server...
+2015-02-19 06:15:09pm Select proper server for the request.
+2015-02-19 06:15:09pm Choosing done. Request went to localhost.
+2015-02-19 06:15:09pm wellHanlder begin to handle this request.
+2015-02-19 06:15:09pm well_sql begin searching database.
+2015-02-19 06:15:09pm Need result type: json.
+2015-02-19 06:15:09pm This process during time is : 0
+2015-02-19 06:15:09pm Load Banlace report processing
+2015-02-19 06:15:09pm Caculate the grade for current function-host
+2015-02-19 06:15:09pm wellHanlder begin to report grade
+2015-02-19 06:34:25pm Parsing func para:well
+2015-02-19 06:34:25pm Begin to select proper server...
+2015-02-19 06:34:25pm Select proper server for the request.
+2015-02-19 06:34:25pm Choosing done. Request went to localhost.
+2015-02-19 06:34:25pm wellHanlder begin to handle this request.
+2015-02-19 06:34:25pm well_sql begin searching database.
+2015-02-19 06:34:25pm Need result type: json.
+2015-02-19 06:34:25pm This process during time is : 0
+2015-02-19 06:34:25pm Load Banlace report processing
+2015-02-19 06:34:25pm Caculate the grade for current function-host
+2015-02-19 06:34:25pm wellHanlder begin to report grade
+2015-02-19 06:35:06pm Parsing func para:well
+2015-02-19 06:35:06pm Begin to select proper server...
+2015-02-19 06:35:06pm Select proper server for the request.
+2015-02-19 06:35:07pm Choosing done. Request went to localhost.
+2015-02-19 06:35:07pm wellHanlder begin to handle this request.
+2015-02-19 06:35:07pm well_sql begin searching database.
+2015-02-19 06:35:07pm Need result type: json.
+2015-02-19 06:35:07pm This process during time is : 1424342106 - 1424342107 = 1
+2015-02-19 06:35:07pm Load Banlace report processing
+2015-02-19 06:35:07pm Caculate the grade for current function-host
+2015-02-19 06:35:07pm wellHanlder begin to report grade
+2015-02-19 06:36:10pm Parsing func para:well
+2015-02-19 06:36:10pm Begin to select proper server...
+2015-02-19 06:36:10pm Select proper server for the request.
+2015-02-19 06:36:10pm Choosing done. Request went to localhost.
+2015-02-19 06:36:10pm wellHanlder begin to handle this request.
+2015-02-19 06:36:10pm well_sql begin searching database.
+2015-02-19 06:36:10pm Need result type: html.
+2015-02-19 06:36:10pm This process during time is : 1424342170 - 1424342170 = 0
+2015-02-19 06:36:10pm Load Banlace report processing
+2015-02-19 06:36:10pm Caculate the grade for current function-host
+2015-02-19 06:36:10pm wellHanlder begin to report grade
+2015-02-19 06:36:16pm Parsing func para:well
+2015-02-19 06:36:16pm Begin to select proper server...
+2015-02-19 06:36:16pm Select proper server for the request.
+2015-02-19 06:36:16pm Choosing done. Request went to localhost.
+2015-02-19 06:36:16pm wellHanlder begin to handle this request.
+2015-02-19 06:36:16pm well_sql begin searching database.
+2015-02-19 06:36:16pm Need result type: html.
+2015-02-19 06:36:16pm This process during time is : 1424342176 - 1424342176 = 0
+2015-02-19 06:36:16pm Load Banlace report processing
+2015-02-19 06:36:16pm Caculate the grade for current function-host
+2015-02-19 06:36:16pm wellHanlder begin to report grade
+2015-02-19 06:36:23pm Parsing func para:well
+2015-02-19 06:36:24pm Begin to select proper server...
+2015-02-19 06:36:24pm Select proper server for the request.
+2015-02-19 06:36:24pm Choosing done. Request went to localhost.
+2015-02-19 06:36:24pm wellHanlder begin to handle this request.
+2015-02-19 06:36:24pm well_sql begin searching database.
+2015-02-19 06:36:24pm Need result type: html.
+2015-02-19 06:36:24pm This process during time is : 1424342184 - 1424342184 = 0
+2015-02-19 06:36:24pm Load Banlace report processing
+2015-02-19 06:36:24pm Caculate the grade for current function-host
+2015-02-19 06:36:24pm wellHanlder begin to report grade
+2015-02-19 06:36:30pm Parsing func para:well
+2015-02-19 06:36:30pm Begin to select proper server...
+2015-02-19 06:36:30pm Select proper server for the request.
+2015-02-19 06:36:30pm Choosing done. Request went to localhost.
+2015-02-19 06:36:30pm wellHanlder begin to handle this request.
+2015-02-19 06:36:30pm well_sql begin searching database.
+2015-02-19 06:36:30pm Need result type: json.
+2015-02-19 06:36:30pm This process during time is : 1424342190 - 1424342190 = 0
+2015-02-19 06:36:30pm Load Banlace report processing
+2015-02-19 06:36:30pm Caculate the grade for current function-host
+2015-02-19 06:36:30pm wellHanlder begin to report grade
+2015-02-19 06:36:52pm Parsing func para:well
+2015-02-19 06:36:53pm Begin to select proper server...
+2015-02-19 06:36:53pm Select proper server for the request.
+2015-02-19 06:36:53pm Choosing done. Request went to localhost.
+2015-02-19 06:36:53pm wellHanlder begin to handle this request.
+2015-02-19 06:36:53pm well_sql begin searching database.
+2015-02-19 06:36:53pm Need result type: json.
+2015-02-19 06:36:53pm This process during time is : 1424342213 - 1424342213 = 0
+2015-02-19 06:36:53pm Load Banlace report processing
+2015-02-19 06:36:53pm Caculate the grade for current function-host
+2015-02-19 06:36:53pm wellHanlder begin to report grade
+2015-02-19 06:37:47pm Parsing func para:well
+2015-02-19 06:37:47pm Begin to select proper server...
+2015-02-19 06:37:47pm Select proper server for the request.
+2015-02-19 06:37:47pm Choosing done. Request went to localhost.
+2015-02-19 06:37:47pm wellHanlder begin to handle this request.
+2015-02-19 06:37:47pm well_sql begin searching database.
+2015-02-19 06:37:47pm Need result type: html.
+2015-02-19 06:37:47pm This process during time is : 1424342267 - 1424342267 = 0
+2015-02-19 06:37:47pm Load Banlace report processing
+2015-02-19 06:37:47pm Caculate the grade for current function-host
+2015-02-19 06:37:47pm wellHanlder begin to report grade
+2015-02-19 06:38:12pm Parsing func para:well
+2015-02-19 06:38:12pm Begin to select proper server...
+2015-02-19 06:38:12pm Select proper server for the request.
+2015-02-19 06:38:12pm Choosing done. Request went to localhost.
+2015-02-19 06:38:12pm wellHanlder begin to handle this request.
+2015-02-19 06:38:12pm well_sql begin searching database.
+2015-02-19 06:38:12pm Need result type: html.
+2015-02-19 06:38:12pm This process during time is : 1424342292 - 1424342292 = 0
+2015-02-19 06:38:12pm Load Banlace report processing
+2015-02-19 06:38:12pm Caculate the grade for current function-host
+2015-02-19 06:38:12pm wellHanlder begin to report grade
+2015-02-19 06:41:54pm Parsing func para:well
+2015-02-19 06:41:54pm Begin to select proper server...
+2015-02-19 06:41:54pm Select proper server for the request.
+2015-02-19 06:41:54pm Choosing done. Request went to localhost.
+2015-02-19 06:41:54pm wellHanlder begin to handle this request.
+2015-02-19 06:41:54pm well_sql begin searching database.
+2015-02-19 06:41:54pm Need result type: html.
+2015-02-19 06:41:54pm This process during time is : 1424342514 - 1424342514 = 0
+2015-02-19 06:41:54pm Load Banlace report processing
+2015-02-19 06:41:54pm Caculate the grade for current function-host
+2015-02-19 06:41:54pm update initEnv set p1g=1 where task_id=''
+2015-02-19 06:41:54pm wellHanlder begin to report grade
+2015-02-19 06:42:59pm Parsing func para:well
+2015-02-19 06:42:59pm Begin to select proper server...
+2015-02-19 06:42:59pm Select proper server for the request.
+2015-02-19 06:42:59pm Choosing done. Request went to localhost.
+2015-02-19 06:42:59pm wellHanlder begin to handle this request.
+2015-02-19 06:42:59pm well_sql begin searching database.
+2015-02-19 06:42:59pm Need result type: json.
+2015-02-19 06:42:59pm This process during time is : 1424342579 - 1424342579 = 0
+2015-02-19 06:42:59pm Load Banlace report processing
+2015-02-19 06:42:59pm Caculate the grade for current function-host
+2015-02-19 06:42:59pm 
+2015-02-19 06:42:59pm wellHanlder begin to report grade
+2015-02-19 06:43:44pm Parsing func para:well
+2015-02-19 06:43:44pm Begin to select proper server...
+2015-02-19 06:43:44pm Select proper server for the request.
+2015-02-19 06:43:44pm Choosing done. Request went to localhost.
+2015-02-19 06:43:44pm wellHanlder begin to handle this request.
+2015-02-19 06:43:44pm well_sql begin searching database.
+2015-02-19 06:43:44pm Need result type: json.
+2015-02-19 06:43:44pm This process during time is : 1424342624 - 1424342624 = 0
+2015-02-19 06:43:44pm Load Banlace report processing
+2015-02-19 06:43:44pm Caculate the grade for current function-host
+2015-02-19 06:43:44pm 
+2015-02-19 06:43:44pm wellHanlder begin to report grade
+2015-02-19 06:45:07pm Parsing func para:well
+2015-02-19 06:45:07pm Begin to select proper server...
+2015-02-19 06:45:07pm Select proper server for the request.
+2015-02-19 06:45:07pm Choosing done. Request went to localhost.
+2015-02-19 06:45:07pm wellHanlder begin to handle this request.
+2015-02-19 06:45:07pm well_sql begin searching database.
+2015-02-19 06:45:07pm Need result type: json.
+2015-02-19 06:45:07pm This process during time is : 1424342707 - 1424342707 = 0
+2015-02-19 06:45:07pm Load Banlace report processing
+2015-02-19 06:45:07pm Caculate the grade for current function-host
+2015-02-19 06:45:07pm update initEnv set p1g=1 where task_id='well'
+2015-02-19 06:45:07pm wellHanlder begin to report grade
+2015-02-19 06:45:40pm Parsing func para:well
+2015-02-19 06:45:40pm Begin to select proper server...
+2015-02-19 06:45:40pm Select proper server for the request.
+2015-02-19 06:45:40pm Choosing done. Request went to localhost.
+2015-02-19 06:45:41pm wellHanlder begin to handle this request.
+2015-02-19 06:45:41pm well_sql begin searching database.
+2015-02-19 06:45:41pm Need result type: json.
+2015-02-19 06:45:41pm This process during time is : 1424342741 - 1424342740 = 1
+2015-02-19 06:45:41pm Load Banlace report processing
+2015-02-19 06:45:41pm Caculate the grade for current function-host
+2015-02-19 06:45:41pm update initEnv set p1g=0.5 where task_id='well'
+2015-02-19 06:45:41pm wellHanlder begin to report grade
+2015-02-19 06:46:16pm Parsing func para:well
+2015-02-19 06:46:16pm Begin to select proper server...
+2015-02-19 06:46:16pm Select proper server for the request.
+2015-02-19 06:46:16pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 06:46:16pm wellHanlder begin to handle this request.
+2015-02-19 06:46:16pm well_sql begin searching database.
+2015-02-19 06:46:16pm Need result type: json.
+2015-02-19 06:46:16pm This process during time is : 1424342776 - 1424342776 = 0
+2015-02-19 06:46:16pm Load Banlace report processing
+2015-02-19 06:46:16pm Caculate the grade for current function-host
+2015-02-19 06:46:16pm update initEnv set p2g=0.5 where task_id='well'
+2015-02-19 06:46:16pm wellHanlder begin to report grade
+2015-02-19 06:48:04pm Parsing func para:well
+2015-02-19 06:48:04pm Begin to select proper server...
+2015-02-19 06:48:04pm Select proper server for the request.
+2015-02-19 06:48:04pm Choosing done. Request went to 127.0.0.1.
+2015-02-19 06:48:04pm wellHanlder begin to handle this request.
+2015-02-19 06:48:04pm well_sql begin searching database.
+2015-02-19 06:48:04pm Need result type: json.
+2015-02-19 06:48:04pm This process during time is : 1424342884 - 1424342884 = 0
+2015-02-19 06:48:04pm Load Banlace report processing
+2015-02-19 06:48:04pm Caculate the grade for current function-host
+2015-02-19 06:48:04pm update initEnv set p2g=0.2 where task_id='well'
+2015-02-19 06:48:04pm wellHanlder begin to report grade
+2015-02-19 06:48:11pm Parsing func para:well
+2015-02-19 06:48:11pm Begin to select proper server...
+2015-02-19 06:48:11pm Select proper server for the request.
+2015-02-19 06:48:11pm Choosing done. Request went to localhost.
+2015-02-19 06:48:11pm wellHanlder begin to handle this request.
+2015-02-19 06:48:11pm well_sql begin searching database.
+2015-02-19 06:48:11pm Need result type: json.
+2015-02-19 06:48:11pm This process during time is : 1424342891 - 1424342891 = 0
+2015-02-19 06:48:12pm Load Banlace report processing
+2015-02-19 06:48:12pm Caculate the grade for current function-host
+2015-02-19 06:48:12pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 06:48:12pm wellHanlder begin to report grade
+2015-02-19 07:00:26pm Parsing func para:well
+2015-02-19 07:00:26pm Begin to select proper server...
+2015-02-19 07:00:26pm Select proper server for the request.
+2015-02-19 07:00:26pm Choosing done. Request went to localhost.
+2015-02-19 07:00:26pm wellHanlder begin to handle this request.
+2015-02-19 07:00:26pm well_sql begin searching database.
+2015-02-19 07:00:26pm Need result type: html.
+2015-02-19 07:00:26pm This process during time is : 1424343626 - 1424343626 = 0
+2015-02-19 07:00:26pm Load Banlace report processing
+2015-02-19 07:00:26pm Caculate the grade for current function-host
+2015-02-19 07:00:26pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:00:26pm wellHanlder begin to report grade
+2015-02-19 07:15:21pm No this function now:.<br>
+2015-02-19 07:15:26pm No this function now:.<br>
+2015-02-19 07:15:32pm No this function now:.<br>
+2015-02-19 07:15:38pm No this function now:.<br>
+2015-02-19 07:21:47pm Parsing func para:well
+2015-02-19 07:21:47pm Begin to select proper server...
+2015-02-19 07:21:47pm Select proper server for the request.
+2015-02-19 07:21:47pm Choosing done. Request went to localhost.
+2015-02-19 07:21:47pm wellHanlder begin to handle this request.
+2015-02-19 07:21:47pm well_sql begin searching database.
+2015-02-19 07:21:47pm Need result type: html.
+2015-02-19 07:21:47pm This process during time is : 1424344907 - 1424344907 = 0
+2015-02-19 07:21:47pm Load Banlace report processing
+2015-02-19 07:21:47pm Caculate the grade for current function-host
+2015-02-19 07:21:47pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:21:47pm wellHanlder begin to report grade
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:16pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:22:17pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:06pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:07pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:08pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:09pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:10pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:11pm No this function now:.<br>
+2015-02-19 07:27:12pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:31:39pm No this function now:.<br>
+2015-02-19 07:32:38pm No this function now:.<br>
+2015-02-19 07:32:38pm No this function now:.<br>
+2015-02-19 07:32:38pm No this function now:.<br>
+2015-02-19 07:32:38pm No this function now:.<br>
+2015-02-19 07:32:38pm No this function now:.<br>
+2015-02-19 07:32:39pm No this function now:.<br>
+2015-02-19 07:32:39pm No this function now:.<br>
+2015-02-19 07:32:39pm No this function now:.<br>
+2015-02-19 07:32:39pm No this function now:.<br>
+2015-02-19 07:33:02pm No this function now:.<br>
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Load Banlace report processing
+uest.
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm Parsing func para:well
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Begin to select proper server...
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm Select proper server for the request.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:40pm Load Banlace report processing
+2015-02-19 07:43:40pm Choosing done. Request went to localhost.
+2015-02-19 07:43:40pm Caculate the grade for current function-host
+2015-02-19 07:43:40pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:40pm wellHanlder begin to report grade
+2015-02-19 07:43:40pm wellHanlder begin to handle this request.
+2015-02-19 07:43:40pm well_sql begin searching database.
+2015-02-19 07:43:40pm Need result type: json.
+2015-02-19 07:43:40pm This process during time is : 1424346220 - 1424346220 = 0
+2015-02-19 07:43:41pm Load Banlace report processing
+2015-02-19 07:43:41pm Caculate the grade for current function-host
+2015-02-19 07:43:41pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:41pm wellHanlder begin to report grade
+2015-02-19 07:43:41pm wellHanlder begin to handle this request.
+2015-02-19 07:43:41pm well_sql begin searching database.
+2015-02-19 07:43:41pm Need result type: json.
+2015-02-19 07:43:41pm This process during time is : 1424346221 - 1424346220 = 1
+2015-02-19 07:43:41pm Load Banlace report processing
+2015-02-19 07:43:41pm Caculate the grade for current function-host
+2015-02-19 07:43:41pm update initEnv set p1g=0.4 where task_id='well'
+2015-02-19 07:43:41pm wellHanlder begin to report grade

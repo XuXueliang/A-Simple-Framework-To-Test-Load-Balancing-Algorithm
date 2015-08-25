@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="./js/jquery-1.9.1.min.js" type="text/javascript"></script>
+<script src="./js/frame.js" type="text/javascript"></script>
+<link rel="stylesheet" href="./css/test.css" type="text/css"/>
+<script src="./js/test.js" type="text/javascript"></script>
+<head>
+</head>
+
+<body style=" margin: 0; padding: 0;">
+
+<div id="header" style="text-align:center;"><h1>VCMD Framework App Demo</h1></div>
+<div id="experiment_tabs"  style=" margin: 0;left:10%;position:absolute;">
+ <ul>
+  <!--  <li class="current"><a href="javascript:void(0);" class="tab-1">Function Test</a></li> -->
+ </ul>
+
+<div style="padding-left:40%;">
+<form id="func" method="post" action="../control/run.php">
+<table>
+  <tr><td> Function Name:</td><td><input type="text" name="func"></td></tr>
+  <tr><td>
+        Return Type:</td><td>
+        <select id="returnType" name="returnType">
+        	<option value="html" name="html">html</option>
+        	<option value="json" name="json">json</option>
+        </select> 
+  </td></tr>
+  <tr><td> <input type="submit" name="submit" value="Begin Testing"> </td></tr>
+</table>
+</form>
+</div>
+<hr style="border-style:dotted;border-color:#a8a8a8;">
+<div id="h2" style="text-align:center; ">
+<div>
+    <a href="./FrameworkInfo.html">Introduction</a>
+</div>
+<hr style="border-style:dotted;border-color:#a8a8a8;">
+    <div id="flag"> 
+      <a href="javascript:seeLog();">See Running Log</a>
+    </div>
+    <div id="SeeLog" style="text-align:left;padding-left:20%;">
+      
+    </div>
+</div>
+<hr style="border-style:hidden;">
+<ul>
+  <!--<li class="current"><a href="javascript:void(0);" class="tab-1">Systems</a></li>-->
+ </ul>
+<div id="h1" style="text-align:center;padding-top:20px; ">
+    <a href="./DataAnalysisModel.html">Data Analysis Model System</a>
+</div>
+<hr style="border-style:hidden;">
+<div id="h3" style="text-align:center;height:40px; ">
+    <a href="./PerformanceTest.html">Performance Test</a>
+</div>
+
+<div id="footer" style="text-align:center; font-size:12px;">
+<hr >
+<p>Copyright &copy; BUPT 2015<span>&nbsp;Designed by Xu Xueliang</span></p>
+</div><!--end of footer-->
+</div>
+
+</body>
+</html>
