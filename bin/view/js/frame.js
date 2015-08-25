@@ -41,62 +41,7 @@ ddaccordion.init({
 		//do nothing
 		//alert("2");
 	}
-})	
-
-
-
-//日历
-$(function(){
-	var mydate=new Date();
-	var str="今天是：";
-	str+=mydate.getFullYear()+"年"+(mydate.getMonth()+1)+"月"+mydate.getDate()+"日 ";
-	switch(mydate.getDay()){
-		case 1:
-		str+="星期一 ";
-		break;
-		case 2:
-		str+="星期二 ";
-		break;
-		case 3:
-		str+="星期三 ";
-		break;
-		case 4:
-		str+="星期四 ";
-		break;
-		case 5:
-		str+="星期五 ";
-		break;
-		case 7:
-		str+="星期六 ";
-		break;
-		default:
-		str+="星期日 ";
-		break;
-		}
-	$("#header .greeting span:eq(0)").text(str)
-	})
-	
-
-	
-	
-//实验排序	
-$(function(){
-	$("#frame #main .nav #exp_list .boxcontent .submenuhead i.icon-cog").click(function(){
-		var arr1=[];   //编辑前列表
-		$(this).parent().next().find("li a").each(function(){
-			arr1.push($(this).text())
-			});
-			
-		$(this).editPositionDialog({
-			title:$(this).parent().text(),
-			arr:arr1,
-			onConfirm2:function(arr2){
-				alert(arr2)   //编辑后列表
-				},
-			})
-		})
-	})
-	
+})
 
 
 
